@@ -1,0 +1,7 @@
+Hi there, I'm Jeff Biju Jose, an experienced web developer with a passion for creating innovative and user-friendly web applications. My interest in web development started at school, where I took my first coding class and became fascinated by the way websites and applications were built.
+
+Since then, I've honed my skills in front-end development, using HTML, CSS, and JavaScript to create engaging and user-friendly interfaces. I'm also proficient in front-end frameworks like bootstrap.
+
+Throughout my career, I've worked on a variety of projects, from simple landing pages to large-scale enterprise applications. I pride myself on my attention to detail and my ability to collaborate effectively with designers, project managers, and other developers.
+
+In my free time, you can find me tinkering with new technologies, attending web development conferences, or contributing to open-source projects. I'm always looking for new challenges and opportunities to learn and grow as a developer.

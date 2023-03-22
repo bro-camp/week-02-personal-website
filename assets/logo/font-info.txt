@@ -1,0 +1,6 @@
+Fonts:
+
+Bodoni Moda
+Gentium Book Plus
+Playfair Display
+Josefin Slab
